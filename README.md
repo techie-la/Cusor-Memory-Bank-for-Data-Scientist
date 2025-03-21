@@ -177,4 +177,5 @@ Project Intelligence
 Let Cursor identify hidden patterns and inefficiencies
 Validate critical insights
 Use .cursorrules as a knowledge base to avoid repeated mistakes or inefficiencies
+
 Remember: Cursor’s effectiveness hinges on how well the Memory Bank is curated and maintained.
